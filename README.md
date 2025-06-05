@@ -27,7 +27,7 @@ cd nlp-report-generator
 
 ### 2. Python Environment
 
-Ensure Python 3.7.4 or later is installed.
+Ensure Python 3.7.4 must be installed.
 
 Create a virtual environment (recommended):
 
