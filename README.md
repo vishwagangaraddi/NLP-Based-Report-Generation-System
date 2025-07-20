@@ -126,3 +126,9 @@ python notebook.py
 | Translation Fails        | Ensure active internet connection                         |
 | No Voice Output (Windows)| Install `pywin32` and verify speakers are working         |
 | GUI Crashes on Large Files| Optimize OCR input or reduce file size                   |
+
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
